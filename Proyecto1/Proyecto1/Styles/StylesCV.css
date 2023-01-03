@@ -1,0 +1,41 @@
+﻿body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align:center;
+}
+
+
+
+.fotoCV {
+    display: flex;
+    margin: 20px auto;
+    border-radius:15px;
+}
+
+
+
+.CV {
+    margin: 100px 30% 100px 30%;
+    
+}
+
+.Skills{
+    background-color:#07182E;
+    border-radius:5px;
+
+}
+
+.Experiencia {
+    background-color: slategrey;
+    color: black;
+    border-radius: 5px;
+}
+
+h2 {
+    text-align: center;
+}
+
+h5 {
+
+    text-decoration: underline;
+    margin: 20px 0 10px 0;
+}
