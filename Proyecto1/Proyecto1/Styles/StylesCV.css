@@ -1,6 +1,6 @@
 ﻿body {
     font-family: 'Times New Roman', Times, serif;
-    text-align:center;
+    text-align: left;
 }
 
 
@@ -11,31 +11,46 @@
     border-radius:15px;
 }
 
-
-
-.CV {
-    margin: 100px 30% 100px 30%;
+div {
+    word-wrap: break-word;
     
 }
 
-.Skills{
-    background-color:#07182E;
-    border-radius:5px;
+.CV {
+    margin: 100px 20% 100px 20%;
+    
+}
 
+.Skills {
+    background-color: #07182E;
+   
 }
 
 .Experiencia {
+
     background-color: slategrey;
     color: black;
-    border-radius: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
 }
 
 h2 {
     text-align: center;
+
 }
 
 h5 {
-
     text-decoration: underline;
-    margin: 20px 0 10px 0;
+}
+
+.subTit {
+    font-size:larger;
+    text-decoration: underline;
+}
+.ExperienciaLab {
+    margin: 10%
+}
+
+.FormacionAcadem{
+    margin:10%;
 }
