@@ -1,0 +1,16 @@
+﻿body {
+    
+}
+
+tr{
+    height:50px;
+}
+
+table {
+    width: 100%;
+    background-color: white;
+    text-align: center;
+}
+th {
+    background-color: #00A97F;
+}
